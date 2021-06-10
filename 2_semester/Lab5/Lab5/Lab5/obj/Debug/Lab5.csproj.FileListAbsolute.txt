@@ -1,0 +1,19 @@
+D:\Учеба\ЗИНИС\2 сем\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\Учеба\ЗИНИС\2 сем\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\Учеба\ЗИНИС\2 сем\Lab5\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\Учеба\ЗИНИС\2 сем\Lab5\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+D:\Учеба\ЗИНИС\2 сем\Lab5\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+D:\Учеба\ЗИНИС\2 сем\Lab5\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+D:\Учеба\ЗИНИС\2 сем\Lab5\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+D:\Учеба\ЗИНИС\2 сем\Lab5\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\Учеба\ЗИНИС\2 сем\Lab5\Lab5\Lab5\obj\Debug\Lab5.pdb
+D:\ЗИ - Защита информации\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\ЗИ - Защита информации\Lab5\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\ЗИ - Защита информации\Lab5\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\ЗИ - Защита информации\Lab5\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+D:\ЗИ - Защита информации\Lab5\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+D:\ЗИ - Защита информации\Lab5\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+D:\ЗИ - Защита информации\Lab5\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+D:\ЗИ - Защита информации\Lab5\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\ЗИ - Защита информации\Lab5\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\ЗИ - Защита информации\Lab5\Lab5\Lab5\obj\Debug\Lab5.pdb

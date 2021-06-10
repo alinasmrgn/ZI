@@ -1,0 +1,19 @@
+D:\Учеба\ЗИНИС\2 сем\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Учеба\ЗИНИС\2 сем\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Учеба\ЗИНИС\2 сем\Lab2\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Учеба\ЗИНИС\2 сем\Lab2\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\Учеба\ЗИНИС\2 сем\Lab2\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+D:\Учеба\ЗИНИС\2 сем\Lab2\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\Учеба\ЗИНИС\2 сем\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\Учеба\ЗИНИС\2 сем\Lab2\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Учеба\ЗИНИС\2 сем\Lab2\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\ЗИ - Защита информации\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\ЗИ - Защита информации\Lab2\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\ЗИ - Защита информации\Lab2\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\ЗИ - Защита информации\Lab2\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\ЗИ - Защита информации\Lab2\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+D:\ЗИ - Защита информации\Lab2\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\ЗИ - Защита информации\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\ЗИ - Защита информации\Lab2\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+D:\ЗИ - Защита информации\Lab2\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\ЗИ - Защита информации\Lab2\Lab2\Lab2\obj\Debug\Lab2.pdb
